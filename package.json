@@ -1,7 +1,7 @@
 {
   "name": "reintentify",
   "version": "0.0.0-alpha.0",
-  "description": "Experimental Reintentify placeholder; no implemented functionality.",
+  "description": "Experimental structured intent IR compiler, validator, and reactive evaluator",
   "main": "index.js",
   "license": "MIT",
   "author": "Softoy",
@@ -12,6 +12,14 @@
   ],
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "tag": "alpha"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reintentify/reintentify.git"
   }
 }
