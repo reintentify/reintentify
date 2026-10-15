@@ -1,0 +1,17 @@
+{
+  "name": "reintentify",
+  "version": "0.0.0-alpha.0",
+  "description": "Experimental Reintentify placeholder; no implemented functionality.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Softoy",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
